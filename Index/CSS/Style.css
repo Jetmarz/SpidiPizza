@@ -1,0 +1,92 @@
+body{
+    background-color: rgb(0, 0, 0);
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1200px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+/*Testo*/
+h1 {
+    
+    color: rgb(255, 0, 0);
+    font-style: italic;
+    text-align: center;
+    line-height: 60px;
+    background-color:rgb(46, 45, 45) ;
+    
+}
+p{
+    color:rgb(0, 255, 0);
+    font-size:130%;
+    
+}
+.caratteristiche {
+    color: coral;
+    
+}
+
+#Pringles_classiche {
+    color: red;
+}
+
+#Pringles_paprica {
+    color: orange;
+}
+
+#Pringles_cipolle {
+    color: green;
+}
+p a {
+    color: rgb(0, 255, 0);
+
+}
+
+
+a {
+    color:rgb(0, 0, 255);
+    font-style: oblique;
+    text-align: left;
+}
+/*Immagini*/
+img {
+    padding: 10px;
+    margin: auto;
+    width: auto;
+    border: black;
+    border-width: 10px;
+    border-style:ridge;
+    box-sizing: border-box;
+    float:right;
+}
+.Pacchetti{
+    float:none;
+    height: 40%;
+    width: 100%;
+    
+}
+
+
+/*blocchi*/
+.primo{
+    height: 180px;
+    width: 275px;
+    border:solid;
+    color:rgb(0, 0, 255);
+    background-color: rgba(0, 0, 0,);
+}
+
+.quinto{
+    width: 400px;
+    height: 60px;
+    
+    border-style: inset;
+    border-color:rgb(255, 0, 0);
+    border-width: 6px;
+    background-color: black;
+    background-size: 25%;
+}
+#coso{
+    color: rgb(0, 255, 0);
+ 
+}
